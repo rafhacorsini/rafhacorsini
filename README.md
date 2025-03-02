@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, sou o Rafael Corsini! 🚀</h1>
+<h1 align="center">👋 Olá, sou o Rafhael Corsini! 🚀</h1>
 <h3 align="center">Desenvolvedor apaixonado por tecnologia, IA e soluções criativas!</h3>
 
 ---
@@ -29,12 +29,11 @@
 ### 🚀 Projetos em Destaque
 📌 **[Gerador de Filmes & Séries](https://github.com/rafhacorsini/gerador-filme)** - *Sugere filmes e séries com base no streaming e gênero escolhido.* 🎬  
 
-
 ---
 
 ### 🌍 Conecte-se comigo
 📩 **E-mail:** [rafhaelcorsini@gmail.com](mailto:rafhaelcorsini@gmail.com)  
-💼 **LinkedIn:** ![]([https://linkedin.com/in/rafhacorsini](https://www.linkedin.com/in/rafhael-corsini-084392323/))  
+💼 **LinkedIn:** [Rafael Corsini](https://www.linkedin.com/in/rafhael-corsini-084392323)  
 
 ---
 
