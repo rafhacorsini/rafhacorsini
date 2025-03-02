@@ -34,7 +34,7 @@
 
 ### 🌍 Conecte-se comigo
 📩 **E-mail:** [rafhaelcorsini@gmail.com](mailto:rafhaelcorsini@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/rafhacorsini]([https://linkedin.com/in/rafhacorsini](https://www.linkedin.com/in/rafhael-corsini-084392323/))  
+💼 **LinkedIn:** ![]([https://linkedin.com/in/rafhacorsini](https://www.linkedin.com/in/rafhael-corsini-084392323/))  
 
 ---
 
