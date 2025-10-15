@@ -28,7 +28,7 @@
 
 ### 🚀 Projetos em Destaque
 📌 **[Gerador de Filmes & Séries](https://github.com/rafhacorsini/gerador-filme)** - *Sugere filmes e séries com base no streaming e gênero escolhido.* 🎬  
-📌 **[ChatBOT para Medicos](https://rafhacorsini.github.io/medbot-landing/)** - 
+📌 **[ChatBOT para Medicos](https://rafhacorsini.github.io/medbot-landing/)** - LandingPage 
 
 ---
 
